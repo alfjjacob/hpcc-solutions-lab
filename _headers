@@ -15,11 +15,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-home-tsx-87b2afffc42d629fdd44.js
+  Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-faq-tsx-9dea0e480802ece17fe8.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-page-tsx-b001522a17c0ba1695eb.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-home-tsx-87b2afffc42d629fdd44.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-tsx-fb9cf1d95f36fd15878e.js
   Cache-Control: public, max-age=31536000, immutable
@@ -39,6 +39,15 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
+/hpcc-solutions-lab/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-home-tsx-87b2afffc42d629fdd44.js>; rel=preload; as=script
 /hpcc-solutions-lab/hpcc-solutions-lab/faq/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
@@ -48,33 +57,6 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-faq-tsx-9dea0e480802ece17fe8.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/README/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/codeday/README/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/ecl-job-scheduling/README/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
 /hpcc-solutions-lab/hpcc-solutions-lab/cheatsheet/Readme/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
@@ -84,16 +66,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/location/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/SourceCode/README/
+/hpcc-solutions-lab/hpcc-solutions-lab/codeday/README/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -120,7 +93,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/faq/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/README/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -138,7 +111,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/denormalize/
+/hpcc-solutions-lab/hpcc-solutions-lab/ecl-job-scheduling/README/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -147,7 +120,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/function/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/SourceCode/README/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -156,7 +129,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/
+/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/location/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -164,26 +137,17 @@
   Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-home-tsx-87b2afffc42d629fdd44.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/omnichat/introduction/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
 /hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/module/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/normalize/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/project/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -201,7 +165,70 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/faq/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/join/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/normalize/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/function/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
 /hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/transform/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/denormalize/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/Parsing/nlp/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/references/cloudide_setup/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -219,7 +246,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/introducingECL/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/Parsing/textParsing/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -229,15 +256,6 @@
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
 /hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/filter/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/mathematics/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -264,34 +282,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/Parsing/nlp/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/sort/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/references/cloudide_setup/
-  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
-  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/Parsing/textParsing/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/mathematics/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -309,7 +300,7 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/join/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/introducingECL/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
@@ -318,7 +309,16 @@
   Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
-/hpcc-solutions-lab/hpcc-solutions-lab/modules/module-list/omnichat/introduction/
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/MainConcepts/sort/
+  Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/commons-d9ec8952acc3fccac461.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/bef9ab208b79e29c9acc1143869fb6b563b8c805-362ac6f861744c73a4ee.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/68666cc0f916d9a9034266ec5542172f6cb0f29b-849c4973ea1b95354b8d.js>; rel=preload; as=script
+  Link: </hpcc-solutions-lab/component---src-templates-page-tsx-b001522a17c0ba1695eb.js>; rel=preload; as=script
+/hpcc-solutions-lab/hpcc-solutions-lab/hpcc/LearnECL/AdvanceConcepts/project/
   Link: </hpcc-solutions-lab/webpack-runtime-298d17be218d9b828b17.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/framework-52bea2745aa6c95e5ab5.js>; rel=preload; as=script
   Link: </hpcc-solutions-lab/app-28279c142c00f291853c.js>; rel=preload; as=script
